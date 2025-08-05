@@ -1,3 +1,3 @@
-region = "us-east-1"
-bucket = "devops4solutions-terraform"
+region = "us-east-2"
+bucket = "my-shared-aws-infra"
 key    = "dev/infra.tfstate"
